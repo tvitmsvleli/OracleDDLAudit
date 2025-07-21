@@ -1,2 +1,2 @@
 # OracleDDLAudit
- Auditing DDL executions within oracle databse
+ Auditing DDL executions within oracle database
